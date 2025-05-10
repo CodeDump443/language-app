@@ -1,0 +1,18 @@
+[
+	{
+	  "en": "apple",
+	  "ru": "яблоко",
+	  "image": "apple.jpg"
+	},
+	{
+	  "en": "car",
+	  "ru": "машина",
+	  "image": "car.jpg"
+	},
+	{
+	  "en": "house",
+	  "ru": "дом",
+	  "image": "house.jpg"
+	}
+  ]
+  
