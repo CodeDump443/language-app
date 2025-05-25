@@ -1,0 +1,4 @@
+[
+  { "ru_word": "яблоко", "en_word": "apple", "options": ["apple", "pear", "banana", "orange"] },
+  { "ru_word": "собака", "en_word": "dog", "options": ["dog", "cat", "bird", "fish"] }
+]
